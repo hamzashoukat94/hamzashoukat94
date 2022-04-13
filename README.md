@@ -1,4 +1,4 @@
-SOFTWARE ENGINEER | ALACHISOFT | DECEMBER 2019 - PRESENT
+SOFTWARE ENGINEER | ALACHISOFT | DECEMBER 2019 - March 2022
 · Worked on Alachisoft’s product, NCache (an in-memory large-scale distributed caching solution)
 - Integrate feature which allows user to cache object with query-able annotation. Based on Query-
 able properties or classes, user can fetch the data through query
