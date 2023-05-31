@@ -1,6 +1,5 @@
- ## Hi :wave:, I'm Hamza 
- 
- ### Software Engineer, .Net Back End Developer
+<h1 align="center">Hi 👋, I'm Hamza</h1>
+<h3 align="center">Software Engineer, .Net Back End Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=hamzashoukat94)
 
