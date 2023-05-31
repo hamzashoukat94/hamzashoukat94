@@ -21,3 +21,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashoukat94)](https://github.com/hamzashoukat94/github-readme-stats)
+
+
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzashoukat94)](https://github.com/hamzashoukat94/github-readme-stats)
+
