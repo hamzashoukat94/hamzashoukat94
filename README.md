@@ -1,11 +1,5 @@
+ ## Hi :wave:, I'm Hamza 
+ 
+ ### Software Engineer, .Net Back End Developer
 
-- Distributed Cache
-- Distributed Lucene
-- Replication of data across the cluster
-- Transfer of state to another node in case of node up and down.
-- Persistence of bucket (shard) distribution map
-- Queryable data objects
-- Java Core library
-- C# Core library
-- Dynamic Error Message
-- NCache SaaS
+![](https://komarev.com/ghpvc/?username=hamzashoukat94)
