@@ -12,7 +12,7 @@
 
 - 📫 How to reach me hamza94shoukat@gmail.com
 
-- 📄 Know about my experiences [My resume](https://www.alachisoft.com/ncache/ncache-cloud.html)
+- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1rADOcOpElHD1s6SOg3t9A-vXZ2pNBQgNkFBYBLWF8DI/edit?usp=sharing)
 
 ### Connect with me
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shoukat-892160159/)
