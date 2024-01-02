@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">Software Engineer, .Net Back End Developer</h3>
+<h3 align="center">Senior Software Engineer, .Net Back End Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=hamzashoukat94)
 
  - 🔭 I’m currently working on C# HTML Parser
 
-- 👯 I’m looking to collaborate on [APIMatic](https://www.apimatic.io/)
+- 👯 I’m looking to collaborate on [MCB Consulting Services Ltd.](https://www.linkedin.com/company/mcb-consulting-services)
 
 - 💬 Ask me about C#, .Net Core, Software Engineering
 
 - 📫 How to reach me hamza94shoukat@gmail.com
 
-- 📄 Know about my experiences [My resume](https://docs.google.com/document/d/1rADOcOpElHD1s6SOg3t9A-vXZ2pNBQgNkFBYBLWF8DI/edit?usp=sharing)
+- 📄 Know about my experiences [My resume](https://www.linkedin.com/in/hamza-shoukat-892160159/overlay/1704204431056/single-media-viewer/?profileId=ACoAACXuhu4B79FLOdZKv2fn2-F29GqhxDKpMPQ)
 
 ### Connect with me
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shoukat-892160159/)
